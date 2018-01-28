@@ -1,0 +1,204 @@
+.body {
+  background-color: #fff;
+}
+
+#menuBG {
+	margin: 0% auto;
+	width: 620px;
+	border-radius: 25px;
+	padding: 1px 0px;
+  opacity: 1;
+}
+
+#frmMenu {
+	margin: 0% auto;
+	width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+	border-radius: 25px;
+}
+
+.sizeHead {
+  color: #fff;
+  padding: 0 0 0 70px;
+  margin: 2px auto;
+  background-color: #b83249;
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #000;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+.meatHead {
+  color: #fff;
+  padding: 0 0 0 65px;
+  margin: 2px auto;
+  background-color: #b83249;
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #000;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+.vegHead {
+  color: #fff;
+  padding: 0 0 0 55px;
+  margin: 2px auto;
+  background-color: #b83249;
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #000;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+.cheeseHead {
+  color: #fff;
+  padding: 0 0 0 55px;
+  margin: 2px auto;
+  background-color: #b83249;
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #000;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+.sauceHead {
+  color: #fff;
+  padding: 0 0 0 60px;
+  margin: 2px auto;
+  background-color: #b83249;
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #000;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+.crustHead {
+  color: #fff;
+  padding: 0 0 0 65px;
+  margin: 2px auto;
+  background-color: #b83249;
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #000;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+}
+
+#cart {
+	opacity: 0;
+	margin: 15px auto;
+	width: 550px;
+  justify-content: flex-start;
+  align-items: center;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+  border: 2px solid #000;
+  color: #fff;
+  background-color: #b83249;
+}
+
+#button {
+  display: flex;
+  flex-direction: columns;
+  justify-content: space-between;
+	width: 23%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  text-shadow: 1.5px 1.5px 5px #000, 1px 1px 5px #000;
+  border: 2px solid #000;
+}
+
+.menu {
+  width:300px;
+  height:250px;
+  font-weight: bold;
+  flex: 1 183px;
+  min-width: 0;
+  border: 3px solid #080054;
+  background-color: #fff;
+  opacity: .75;
+  padding: 0 0 10px 2px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.container {
+  background-color: #b83249;
+  text-align: center;
+  font-weight: bold;
+  width: 60%
+}
+
+.jumbotron {
+  padding: 0px;
+  background-image: url("../Images/Pizza.jpg");
+}
+#showText1 {
+	font-size: 13px;
+	flex: 1 250px;
+	padding: 1px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+  font-weight: bold;
+}
+
+#showprice {
+	font-size: 13px;
+	flex: 1 250px;
+	padding: 1px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+  font-weight: bold;
+}
+
+#totalPrice1 {
+  flex: 1 250px;
+	padding: 0 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#totalPrice2 {
+  font-size: 13px;
+  flex: 1 250px;
+  padding: 1px 0 10px 10px;
+  width: 250px;
+  border-radius: 0 0 0 0;
+  font-weight: bold;
+}
+
+#title1 {
+  flex: 1 250px;
+	padding: 0 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#title2 {
+  flex: 1 250px;
+	padding: 0 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.display-3 {
+  font-weight: bold;
+  font-variant: small-caps;
+  font-family: "Papyrus", "sans-serif";
+}
+
+.lead1 {
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 18px;
+  font-family: "Poor Richard", "sans-serif";
+}
