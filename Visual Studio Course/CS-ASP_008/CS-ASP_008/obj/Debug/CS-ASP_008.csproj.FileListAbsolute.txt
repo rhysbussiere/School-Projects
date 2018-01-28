@@ -1,9 +1,0 @@
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\obj\Debug\CS-ASP_008.csprojResolveAssemblyReference.cache
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\obj\Debug\CS-ASP_008.csproj.CoreCompileInputs.cache
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
