@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

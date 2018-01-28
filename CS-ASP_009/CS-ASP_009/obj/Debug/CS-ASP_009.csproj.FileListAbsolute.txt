@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\bin\CS-ASP_009.dll.config
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\bin\CS-ASP_009.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\bin\CS-ASP_009.pdb
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\obj\Debug\CS-ASP_009.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\obj\Debug\CS-ASP_009.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\obj\Debug\CS-ASP_009.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\CS-ASP_009\CS-ASP_009\obj\Debug\CS-ASP_009.pdb

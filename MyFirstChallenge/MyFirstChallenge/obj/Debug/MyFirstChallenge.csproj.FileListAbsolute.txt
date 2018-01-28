@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
