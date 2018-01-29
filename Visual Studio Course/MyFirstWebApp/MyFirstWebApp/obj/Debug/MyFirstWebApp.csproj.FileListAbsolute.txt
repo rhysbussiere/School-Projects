@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll.config
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.pdb
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.dll
+D:\Users\rhysb\GitHub\Tech-Academy-Projects\Tech Academy Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.pdb

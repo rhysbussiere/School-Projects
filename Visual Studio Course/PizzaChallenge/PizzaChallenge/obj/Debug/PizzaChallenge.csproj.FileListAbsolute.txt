@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\bin\PizzaChallenge.dll.config
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\bin\PizzaChallenge.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\bin\PizzaChallenge.pdb
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\obj\Debug\PizzaChallenge.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\obj\Debug\PizzaChallenge.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\obj\Debug\PizzaChallenge.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\PizzaChallenge\PizzaChallenge\obj\Debug\PizzaChallenge.pdb

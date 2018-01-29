@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\bin\CS-ASP_013.dll.config
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\bin\CS-ASP_013.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\bin\CS-ASP_013.pdb
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\obj\Debug\CS-ASP_013.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\obj\Debug\CS-ASP_013.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\obj\Debug\CS-ASP_013.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\CS-ASP_013\CS-ASP_013\obj\Debug\CS-ASP_013.pdb
