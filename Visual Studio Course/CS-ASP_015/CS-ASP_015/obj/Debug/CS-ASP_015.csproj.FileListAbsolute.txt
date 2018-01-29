@@ -1,0 +1,9 @@
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\bin\CS-ASP_015.dll.config
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\bin\CS-ASP_015.dll
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\bin\CS-ASP_015.pdb
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.csprojResolveAssemblyReference.cache
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.csproj.CoreCompileInputs.cache
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.dll
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.pdb
