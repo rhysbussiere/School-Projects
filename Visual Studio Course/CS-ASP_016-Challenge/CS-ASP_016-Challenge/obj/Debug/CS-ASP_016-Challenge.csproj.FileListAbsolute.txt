@@ -1,0 +1,9 @@
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\bin\CS-ASP_016-Challenge.dll.config
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\bin\CS-ASP_016-Challenge.dll
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\bin\CS-ASP_016-Challenge.pdb
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\obj\Debug\CS-ASP_016-Challenge.csprojResolveAssemblyReference.cache
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\obj\Debug\CS-ASP_016-Challenge.csproj.CoreCompileInputs.cache
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\obj\Debug\CS-ASP_016-Challenge.dll
+Z:\Documents\Tech-Academy-Projects\Tech Academy Projects\Visual Studio Course\CS-ASP_016-Challenge\CS-ASP_016-Challenge\obj\Debug\CS-ASP_016-Challenge.pdb
