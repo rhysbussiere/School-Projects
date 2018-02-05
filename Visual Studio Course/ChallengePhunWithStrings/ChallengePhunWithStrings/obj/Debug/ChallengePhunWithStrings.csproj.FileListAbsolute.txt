@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
