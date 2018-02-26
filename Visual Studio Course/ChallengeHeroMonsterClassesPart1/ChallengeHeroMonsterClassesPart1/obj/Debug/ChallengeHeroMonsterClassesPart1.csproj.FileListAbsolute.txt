@@ -1,0 +1,9 @@
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll.config
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.pdb
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csprojResolveAssemblyReference.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csproj.CoreCompileInputs.cache
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.dll
+D:\Users\rhysb\GitHub\School-Projects\Visual Studio Course\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.pdb
