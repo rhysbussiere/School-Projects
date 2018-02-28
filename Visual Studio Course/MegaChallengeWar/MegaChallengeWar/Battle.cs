@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Web;
@@ -40,7 +41,7 @@ namespace MegaChallengeWar
             if (card1.CardValue() == card2.CardValue())
                 war(player1, player2);
             if (card1.CardValue() > card2.CardValue())
-                awardWinner(player1);
+                awardWinner(player1);           
             else
                 awardWinner(player2);       
         }

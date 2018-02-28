@@ -9,16 +9,15 @@ namespace HelloMVC.Models
     {
         public static List<Car> GetCars()
         {
-            List<Car> cars = new List<Car> {
-                new Car {Id = 1, Make = "BMW", Model="528i"},
-                new Car {Id = 2, Make = "Hyundai", Model="Elantra"},
-                new Car {Id = 3, Make = "Toyota", Model="4Runner"},
+            List<Car> cars = new List<Car>
+            {
+                new Car {Id = 1, Make = "Honda", Model = "NSX"},
+                new Car {Id = 2, Make = "Toyota", Model = "4Runner"},
+                new Car {Id = 3, Make = "Mitsubishi", Model = "Evolution VIII"}
             };
             return cars;
         }
-
     }
-
 
     public class Car
     {
@@ -26,5 +25,4 @@ namespace HelloMVC.Models
         public string Make { get; set; }
         public string Model { get; set; }
     }
-
 }
