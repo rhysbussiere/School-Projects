@@ -15,7 +15,7 @@ namespace HelloMVC.Controllers
             var cars = HelloModel.GetCars();
 
             ViewBag.RhysCreatedThisValue = "Hello MVC";
-
+        
             return View(cars);
         }
     }
